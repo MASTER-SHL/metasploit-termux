@@ -11,6 +11,9 @@ pkg install python python2
 ```
 pkg indtall php
 ```
-pip install lolcat
+git clone https://github.com/MASTER-SHL/metasploit-termux.git
 ```
-git clone 
+chmod +x metasploit.sh
+```
+bash metasploit.sh
+```
