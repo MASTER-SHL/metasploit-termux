@@ -4,7 +4,7 @@ metasploit installation termux All error Fixed
 ```
 pkg install ruby2
 ```
-or try this👇
+  *or try this👇*
 ```
 bash <(curl -fsSL "https://git.io/abhacker-repo") --install ruby=2.7.2
 ```
