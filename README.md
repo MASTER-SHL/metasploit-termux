@@ -13,3 +13,4 @@ pkg indtall php
 ```
 pip install lolcat
 ```
+git clone 
