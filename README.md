@@ -2,7 +2,6 @@
 # metasploit-termux
 metasploit installation termux All error Fixed
 ```
-```
 pkg install git -y
 ```
 ```
