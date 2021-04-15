@@ -2,23 +2,26 @@
 # metasploit-termux
 metasploit installation termux All error Fixed
 ```
-pkg install ruby2
 ```
-  *or try this👇*
-```
-bash <(curl -fsSL "https://git.io/abhacker-repo") --install ruby=2.7.2
+pkg install git -y
 ```
 ```
 pkg install python python2
 ```
 ```
-pkg indtall php
+pkg install php
 ```
 ```
 pip install lolcat
 ```
 ```
-pkg install git -y
+wget https://github.com/Hax4us/TermuxBlack/raw/master/install.sh
+```
+```
+bash install.sh -i
+```
+```
+pkg install ruby2 -y
 ```
 ```
 git clone https://github.com/MASTER-SHL/metasploit-termux.git
