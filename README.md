@@ -29,3 +29,6 @@ chmod +x metasploit.sh
 ```
 bash metasploit.sh
 ```
+```
+msfconsole
+```
