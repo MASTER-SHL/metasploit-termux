@@ -11,6 +11,9 @@ pkg install python python2
 pkg install php
 ```
 ```
+pkg install wget
+```
+```
 pip install lolcat
 ```
 ```
