@@ -34,6 +34,7 @@ chmod +x metasploit.sh
 ```
 bash metasploit.sh
 ```
+*wait 30-40 minutes*
 ```
 msfconsole
 ```
