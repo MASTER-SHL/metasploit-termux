@@ -32,6 +32,9 @@ pkg install ruby2 -y
 git clone https://github.com/MASTER-SHL/metasploit-termux.git
 ```
 ```
+cd metasploit-termux
+```
+```
 chmod +x metasploit.sh
 ```
 ```
