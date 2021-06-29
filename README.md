@@ -5,6 +5,9 @@
 > 
 metasploit installation termux All error Fixed
 ```
+pkg upgrade && apt update -y
+```
+```
 pkg install git -y
 ```
 ```
