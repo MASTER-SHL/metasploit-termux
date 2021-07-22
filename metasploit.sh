@@ -6,7 +6,7 @@ echo "
     |M|e|t|a|s|p|l|o|i|t| |i|n| |T|e|r|m|u|x|
     +-+-+-+-+-+-+-+-+-+-+ +-+-+ +-+-+-+-+-+-+
             +-+-+ +-+-+-+-+-+-+-+-+-+-+
-                     SHL VLOG
+                    SHLinfotell
 "
 
 center() {
